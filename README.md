@@ -1,4 +1,4 @@
-# Competitive Intelligence Pipeline
+# Competitive Intelligence Pipeline.
 <!-- updated -->
 <!-- pass 2 -->
 <!-- pr-1 -->
