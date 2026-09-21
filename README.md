@@ -1,10 +1,11 @@
-# Competitive Intelligence Pipeline.
-<!-- updated -->
-<!-- pass 2 -->
-<!-- pr-1 -->
-<!-- pr-2 -->
-<!-- co-authored -->
-<!-- adictanoop-contribution -->
+# 🤖 MCP Copilot A2A — Multi-Agent Competitive Intelligence Pipeline
+
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-2C2C2C?style=flat-square&logo=chainlink&logoColor=white)](https://langchain.com)
+[![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-Enabled-2563EB?style=flat-square&logo=openai&logoColor=white)](https://modelcontextprotocol.io)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-FF6F61?style=flat-square)](https://trychroma.com)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 
 Gathering competitive intelligence manually is time-consuming and inconsistent — analysts typically spend 4-6 hours per company pulling data from disparate sources, synthesizing it, and producing a structured report. This pipeline automates that process end-to-end: submit a company name, get a structured competitive analysis report in 60-90 seconds.
 
@@ -51,7 +52,7 @@ graph LR
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/mcp-copilot-a2a.git
+git clone https://github.com/Anoopshukla-AI/mcp-copilot-a2a.git
 cd mcp-copilot-a2a
 
 # 2. Configure environment
